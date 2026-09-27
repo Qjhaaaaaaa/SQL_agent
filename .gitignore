@@ -1,0 +1,24 @@
+# ===== 虚拟环境 =====
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+
+# ===== 敏感信息（绝对不能上传）=====
+.env
+.env.local
+
+# ===== 输出/临时文件 =====
+Prediction.txt
+*.log
+
+# ===== IDE =====
+.idea/
+.vscode/
+*.swp
+
+# ===== 系统文件 =====
+.DS_Store
+Thumbs.db

@@ -1,0 +1,7 @@
+pymssql
+dashscope
+openai
+python-dotenv
+pandas
+scikit-learn
+matplotlib
